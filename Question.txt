@@ -1,0 +1,18 @@
+- What is Lumen based on?
+Lumen is a micro-framework building by Laravel and based on micro-services and blazing fast API.
+
+- What is Composer and what is it used for?
+Composer is a tool for dependency management in Php. It is used to declare the libraries your project depends on and il will manage instalation an update of then for the user.
+
+- What command in your terminal allow you to start your project server?
+To start the project serveur, the user need to used the command: 'lumen new <nomProjet>'.
+
+- In which folder is your html stored?
+
+
+- What is the method that allows me to check whether a view exists?
+
+- In which format/type does the information passed need to be before being received
+by the view?
+
+- Explain how do the concepts of View/Controller/Routing work together.
